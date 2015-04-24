@@ -14,16 +14,16 @@
 
 ## [Songrium3D](http://songrium.jp/map/3d)
 
-音楽の宇宙へ旅立とう（Songle Widget 導入実績）
+音楽の宇宙へ旅立とう
 
 ## [Sakura x Songle](http://sakura.songle.jp)
 
-さくらコメントで音楽を彩るサービス（Songle Widget 導入実績）
+さくらコメントで音楽を彩るサービス
 
 ## [Photo x Songle](http://photo.songle.jp)
 
-写真で音楽を彩るサービス（Songle Widget 導入実績）
+写真で音楽を彩るサービス
 
 ## [Melvie x Songle](http://melvie.songle.jp)
 
-映像で音楽を彩るサービス（Songle Widget 導入実績）
+映像で音楽を彩るサービス
