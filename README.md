@@ -18,6 +18,12 @@
 
  * Joined at 2014.08
 
+## [Songrium](http://songrium.jp)
+
+つながりを用いた新しい音楽鑑賞を
+
+ * Joined at 2015.06
+
 ## [TextAlive](http://textalive.jp)
 
 Kinetic Typography for Everyone
